@@ -18,14 +18,10 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hey there! My name is Chachu  - I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
-
-Created by @Examzoneshazu
-
-Want to add me to your Chat? [Click here!](http://telegram.me/WONDERWOMEN_TG_BOT?startgroup=botstart)
-
-My Orginal code is available to you here
-Contact [ABBAS MHD SALIM](t.me/ABBASMHDSALIM)
+ഹായ് {}, എന്റെ പേര് {}! എന്നെ ഉപയോഗിക്കേണ്ടത് എങ്ങനെ ആണെന്നുള്ളതിൽ എന്തേലും സംശയം ഉണ്ടെങ്കിൽ /help കൊടുത്താൽ മതിയാകും... സംശയങ്ങൾക്ക് @annbot_help എന്ന ഗ്രൂപ്പിൽ വരാവുന്നതാണ്.....
+എന്നെ നോക്കി നടത്തുന്നത്  [ഇദ്ദേഹം](tg://user?id={}) ആണ് . എന്നെ നിർമിച്ചിരിക്കുന്നത് python3യിൽ 
+python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്.. എന്റെ കോഡ് നിങ്ങൾക്ക് [ഇവിടെ](https://t.me/I_AM_THE_PRINCE_OF_DARKNESS) കാണാവുന്നതാണ്...
+എന്നെ ഉപയോഗിക്കാൻ ആവിശ്യമായ commandകൾ അറിയാൻ /help കൊടുത്താൽ മതിയാകും..
 
 """
 
